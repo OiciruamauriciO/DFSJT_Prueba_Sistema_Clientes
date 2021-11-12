@@ -1,0 +1,2 @@
+Favor considerar paquete main solicitado en la prueba como el paquete com.prueba.bootcamp.sistemaclientes
+Favor considerar la ruta src/test/java y los paquetes referenciados a la ruta src/main/java como paquetes para las pruebas, no un paquete Test

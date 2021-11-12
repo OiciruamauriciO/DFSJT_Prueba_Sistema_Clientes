@@ -1,0 +1,13 @@
+[2021-06-11 21:50:53] [ INFO ] [ClienteServicioTest:25]  
+[2021-06-11 21:50:53] [ INFO ] [ClienteServicioTest:26] ----------------------------------------------------------------------------
+[2021-06-11 21:50:53] [ INFO ] [ClienteServicioTest:27] ::: Evaluación del servicio ClienteServicio ::: 
+[2021-06-11 21:50:53] [ INFO ] [ClienteServicioTest:28]  
+[2021-06-11 21:50:53] [ INFO ] [ClienteServicioTest:92] Seteando cliente
+[2021-06-11 21:50:53] [ INFO ] [ClienteServicioTest:59] Procesado resultado en método agregarClienteNullTest, valor: false
+[2021-06-11 21:50:53] [ INFO ] [ClienteServicioTest:25]  
+[2021-06-11 21:50:53] [ INFO ] [ClienteServicioTest:26] ----------------------------------------------------------------------------
+[2021-06-11 21:50:53] [ INFO ] [ClienteServicioTest:27] ::: Evaluación del servicio ClienteServicio ::: 
+[2021-06-11 21:50:53] [ INFO ] [ClienteServicioTest:28]  
+[2021-06-11 21:50:53] [ INFO ] [ClienteServicioTest:92] Seteando cliente
+[2021-06-11 21:50:53] [ INFO ] [ClienteServicioTest:37] Instancia de la lista del tipo Cliente para que el objeto cliente del tipo Cliente pueda ser creado
+[2021-06-11 21:50:53] [ INFO ] [ClienteServicioTest:44] Procesado resultado en método agregarClienteTest, valor: true
